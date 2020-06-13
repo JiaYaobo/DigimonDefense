@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindowBackground.jpeg</file>
+        <file>BeginButton.png</file>
+        <file>ChooseLevelPicture.jpg</file>
+        <file>Greymon.png</file>
+        <file>Agumon.png</file>
+        <file>Galulumon.png</file>
+        <file>ChooseLevelButton.png</file>
+        <file>BackButton.png</file>
+        <file>PlayButton.png</file>
+        <file>NumberOne.png</file>
+        <file>levelone.png</file>
+        <file>levelOneScene.png</file>
+        <file>SmallDevilMon.png</file>
+        <file>StatusBar.jpg</file>
+        <file>fire.png</file>
+        <file>Devilmon.png</file>
+        <file>Gabumon.png</file>
+        <file>IronGalulu.png</file>
+        <file>IronGreymon.png</file>
+        <file>SSJH.png</file>
+    </qresource>
+</RCC>
